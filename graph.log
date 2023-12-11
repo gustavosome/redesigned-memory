@@ -1,0 +1,23 @@
+*   c67650e Agregando cambios, resolviendo confilctos
+|\  
+| *   24996dc Resolviendo conflicto Merge main/html en el doc index.html
+| |\  
+| | * 0bef0a3 Agregando index.js al index.html
+| | * 57f1083 Html
+| * | 29a97d6 agregando style.css al index.html
+| |/  
+| *   c6b048a Merge branch 'js'
+| |\  
+| | * 86ca0ed Creando index.js
+| * | b311ff9 Creando Styles
+| * | fe8cd85 Creando Index
+| |/  
+| * c9ad1d5 ignirando archivos .exe
+| * bab1768 Creando licencia del repositorio
+| * 5a21886 Agregando más contenido al README
+| * ee47ad3 Agregando contenido inicial al README.md
+* | d85522c Soy el cambio en el commit
+* | f6160b6 Archivo agregados
+* | b2d054f Agregando nuevo html
+|/  
+* efeb1c0 Primer commit
